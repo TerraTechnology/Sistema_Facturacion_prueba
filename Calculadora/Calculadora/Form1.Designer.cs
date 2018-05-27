@@ -55,11 +55,11 @@
 			// 
 			// button2
 			// 
-			this.button2.Location = new System.Drawing.Point(140, 266);
+			this.button2.Location = new System.Drawing.Point(164, 172);
 			this.button2.Name = "button2";
 			this.button2.Size = new System.Drawing.Size(75, 132);
 			this.button2.TabIndex = 2;
-			this.button2.Text = "jefferson";
+			this.button2.Text = "bossss";
 			this.button2.UseVisualStyleBackColor = true;
 			this.button2.Click += new System.EventHandler(this.button2_Click);
 			// 
